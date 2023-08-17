@@ -1,0 +1,86 @@
+{
+  "estreno": [
+    {
+      "id": 1,
+      "title": "Oppenheimer (2023)",
+      "year": 2023,
+      "description": "El físico J Robert Oppenheimer trabaja con un equipo de científicos durante el Proyecto Manhattan, que condujo al desarrollo de la bomba atómica.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0niU5_-nJcGruRTitqp6LWLeP5Av8LnPWcJ4eUz8avZ9zpXb",
+      "url": "https://www.youtube.com/watch?v=MVvGSBKV504"
+    },
+    {
+      "id": 2,
+      "title": "Transformers: el despertar de las bestias (2023)",
+      "year": 2023,
+      "description": "Durante la década de 1990, los Maximals, Predacons y Terrorcons se unen a la batalla existente en la Tierra entre Autobots y Decepticons.",
+      "photo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0kH5Db-LlHj2mSnpYmr8GOnGTzVJc5c3M5Dne1R3Yl1YralEq",
+      "url": "https://www.youtube.com/watch?v=Db5SvKPJc-w"
+    },
+    {
+      "id": 3,
+      "title": "Barbie (2023)",
+      "year": 2023,
+      "description": "Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la verdadera felicidad.",
+      "photo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVvWRrRBvB7-m4KPNnIvhmU7CkDrRmetnS-fN9bWil2s-VtklG",
+      "url": "https://www.youtube.com/watch?v=zh4KhVSMwtQ"
+    },
+    {
+      "id": 4,
+      "title": "John Wick 4 (2023)",
+      "year": 2023,
+      "description": "El marqués Vincent de Gramont pretende matar a John Wick para afianzar su poder en la Orden Suprema. Sin embargo, John tratará de adelantarse a cada uno de sus movimientos hasta lograr enfrentarse cara a cara con su peor enemigo. ",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ykN8FJvoxbbMCOX30QWyINsykm29ZGQ7mbFGuFDk5NeEqbqL",
+      "url": "https://www.youtube.com/watch?v=L0anWmmd8TI"
+    },
+    {
+      "id": 5,
+      "title": "Rápidos y furiosos 10 (2023)",
+      "year": 2023,
+      "description": "Dom Toretto y sus familias se enfrentan al peor enemigo imaginable, uno llegado desde el pasado con sed de venganza, dispuesto a cualquier cosa con tal de destruir todo aquello que Dom ama.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85R5BQ-rS8WWxlEFUvFCMQ9zwT0heFqrwcvUGHTM37yq7tg2E",
+      "url": "https://www.youtube.com/watch?v=O5BOxn8Go8U"
+    }
+  ],
+  "terror": [
+    {
+      "id": 1,
+      "title": "El secreto de Sinchanee (2021)",
+      "year": 2021,
+      "description": "Un conductor de grúas industriales que sufre de insomnio vuelve a su casa de la infancia tras la muerte prematura de su padre, para descubrir que una presencia paranormal.",
+      "photo": "https://image.tmdb.org/t/p/w300/lgfrROqEoYff8wA7vURs1f5qsPA.jpg?x93679",
+      "url": "https://www.youtube.com/watch?v=BfInC34SVTY"
+    },
+    {
+      "id": 2,
+      "title": "She Will (2022)",
+      "year": 2022,
+      "description": "Veronica, una estrella de cine envejecida, se retira a la campiña escocesa con su enfermera Desi para recuperarse de una doble mastectomía.",
+      "photo": "https://image.tmdb.org/t/p/w300/gxPJZuIBeesHi5gkxtvvXboJ420.jpg?x93679",
+      "url": "https://www.youtube.com/watch?v=Gh3tVvJdgnk"
+    },
+    {
+      "id": 3,
+      "title": "La huérfana: Primer asesinato (2022)",
+      "year": 2022,
+      "description": "Tras escapar de un centro psiquiátrico estonio, Leena Klammer viaja a América haciéndose pasar por Esther, la hija desaparecida de una familia adinerada.",
+      "photo": "https://image.tmdb.org/t/p/w300/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg?x93679",
+      "url": "https://www.youtube.com/watch?v=PIsjrL3iuLI"
+    },
+    {
+      "id": 4,
+      "title": "Historias que no te atreves a contar (2021)",
+      "year": 2021,
+      "description": "Un reportero recopila historias de un supuesto complejo de apartamentos embrujado.",
+      "photo": "https://image.tmdb.org/t/p/w300/cb54aGmSPs9IZZjMZv4WKU4OXi5.jpg?x93679",
+      "url": "https://www.youtube.com/watch?v=1_lf6D5OI0E"
+    },
+    {
+      "id": 5,
+      "title": "Glorious (2022)",
+      "year": 2022,
+      "description": "Después de una ruptura, Wes termina en una parada de descanso remota. Se encuentra encerrado dentro del baño con una figura misteriosa que habla desde un puesto adyacente.",
+      "photo": "https://image.tmdb.org/t/p/w300/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg?x93679",
+      "url": "https://www.youtube.com/watch?v=esqxTzc3lgM"
+    }
+  ]
+}
